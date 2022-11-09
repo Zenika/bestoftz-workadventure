@@ -25,6 +25,6 @@
     "fix": "node_modules/.bin/eslint --fix src/ . --ext .ts"
   },
   "dependencies": {
-    "@workadventure/scripting-api-extra": "^1.2.2"
+    "@workadventure/scripting-api-extra": "^1.4.4"
   }
 }
